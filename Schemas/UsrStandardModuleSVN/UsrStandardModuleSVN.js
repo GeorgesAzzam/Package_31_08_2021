@@ -6,7 +6,7 @@
                 this.config.prop1 = 1;
             },
             render:function(){
-                alert("Hello, Test Alert");
+                alert("Hello,Change Test Alert");
             }
         };
     });
