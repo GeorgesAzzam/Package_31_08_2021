@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrCustomLookup.Caption" Value="newCustomLookup" />
+			<Item Name="Columns.UsrNewColumn.Caption" Value="New Column" />
+			<Item Name="Columns.UsrNewlookupColumn.Caption" Value="NewLookupColumn" />
+		</Items>
+	</Group>
+</Resources>
