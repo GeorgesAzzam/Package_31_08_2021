@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9cb1c4d3-4921-433f-b0ed-84bf3226831b",
+    "Name": "UsrStandardModuleSVN",
+    "ModifiedOnUtc": "\/Date(1630334661000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrStandardModuleSVN",
+    "DependsOn": []
+  }
+}

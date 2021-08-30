@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "94b09805-bcbb-919b-1e25-291b4fdea880",
+    "Name": "Package_31_08_2021",
+    "ModifiedOnUtc": "\/Date(1630333646000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      },
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}
